@@ -19,7 +19,7 @@ I'm passionate about creating real-world solutions, working as part of a team, a
 
 I stand out for my analytical skills , structured thinking, and strong **programming logic**, which allow to approach problems clearly and propose coherent solutions from the root cause. I also deeply value **soft skills**: I know how to communicate, collaborate, and adapt, both in personal projects and shared/team environments.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
